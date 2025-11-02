@@ -1,4 +1,4 @@
-# CombinedApp - Employee Management System
+# Travel.ly
 
 A modern React-based employee management application with authentication, dashboard, and various HR management features. The app combines a travel-themed landing page with a comprehensive admin dashboard for managing employees, departments, attendance, leaves, holidays, and training.
 
