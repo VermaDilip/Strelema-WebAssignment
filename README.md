@@ -39,7 +39,7 @@ Check out the live version of the Strelema React Web Application here:
 
 ```bash
 git clone <repository-url>
-cd CombinedApp
+cd Travelly
 ```
 
 ### 2. Install Dependencies
@@ -75,7 +75,7 @@ npm run preview
 ## 📁 Project Structure
 
 ```
-CombinedApp/
+TravellyApp/
 ├── public/
 │   └── vite.svg
 ├── src/
